@@ -1,0 +1,2 @@
+<h1>Webpage Developement Basics</h1>
+Welcome to the HTML Basics repository! This repository is designed to help you learn the fundamentals of HTML through comprehensive notes and practice worksheets. You'll also find the answers to the worksheets to help you check your understanding.
